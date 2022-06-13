@@ -1,0 +1,54 @@
+2022-04-26 21:12:28,073 - pyswarms.discrete.binary - INFO - Optimize for 400 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:13:35,849 - pyswarms.discrete.binary - INFO - Optimize for 400 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:14:42,284 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:19:13,274 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:20:37,589 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:25:12,366 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:28:11,629 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:28:51,318 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:47:19,426 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:58:01,414 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:58:53,970 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 21:59:34,727 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 22:00:27,573 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 22:00:42,966 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 22:01:03,130 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 22:12:22,939 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 22:12:41,517 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:33:14,497 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:33:49,351 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:35:01,788 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:35:58,474 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:36:47,063 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:37:28,328 - pyswarms.discrete.binary - INFO - Optimize for 150 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:39:10,157 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:40:12,005 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:43:13,040 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:44:36,868 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:50:21,066 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:50:22,763 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 210.0, best pos: [1 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 1 0 1 1 1 0 0 0 0]
+2022-04-26 23:52:15,460 - pyswarms.discrete.binary - INFO - Optimize for 300 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:52:15,978 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 211.0, best pos: [0 1 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0]
+2022-04-26 23:53:03,132 - pyswarms.discrete.binary - INFO - Optimize for 500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-26 23:53:03,981 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 210.0, best pos: [1 0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0]
+2022-04-27 00:06:31,783 - pyswarms.discrete.binary - INFO - Optimize for 500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 00:06:33,472 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 211.0, best pos: [0 1 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0]
+2022-04-27 00:29:43,463 - pyswarms.discrete.binary - INFO - Optimize for 500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 10:06:14,085 - pyswarms.discrete.binary - INFO - Optimize for 1500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 10:07:08,112 - pyswarms.discrete.binary - INFO - Optimize for 1500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 10:07:24,842 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -2182.0, best pos: [1 0 1 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0
+ 1 0 0 0 1 0 1 1 1 0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1
+ 0 0 0 0 0 0 0 0 1 0]
+2022-04-27 10:09:59,737 - pyswarms.discrete.binary - INFO - Optimize for 1500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 10:10:17,588 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 866.0, best pos: [0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 0 1
+ 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 1 1 0
+ 1 0 0 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 1 0
+ 0 0 1 0 0 0 0 0 1 1]
+2022-04-27 11:15:26,144 - pyswarms.discrete.binary - INFO - Optimize for 700 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 11:15:27,357 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 195.0, best pos: [1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 1]
+2022-04-27 11:22:19,196 - pyswarms.discrete.binary - INFO - Optimize for 1500 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 2, 'p': 1}
+2022-04-27 11:22:36,563 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 839.0, best pos: [0 0 0 1 0 1 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 1 0
+ 1 0 1 0 1 1 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 1 0 0 1
+ 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 1 1 0 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 0 0
+ 1 1 1 0 1 1 0 0 1 0]
